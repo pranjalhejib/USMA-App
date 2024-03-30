@@ -1,2 +1,2 @@
 # USMA-App
-AlienVault USMA Mobile Application
+AlienVault USMA SIEM Mobile Application
